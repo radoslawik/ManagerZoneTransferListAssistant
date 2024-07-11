@@ -1,4 +1,4 @@
-# ManagerZoneTransferAssistant
+# ManagerZoneTransferListAssistant
 
 Improve your transfer list experience and enjoy new features
 
